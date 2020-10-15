@@ -8,7 +8,11 @@ Contact: solares.fs@gmail.com
 ## Project References
 
 Selenium Browser Automation - https://www.selenium.dev/ <br>
+
 Python bindings for Selenium documentation - https://selenium-python.readthedocs.io/installation.html <br>
+
 Google Chrome Webdriver Download - https://sites.google.com/a/chromium.org/chromedriver/downloads <br>
+
 A Beginner’s Guide to learn web scraping with python! - https://www.edureka.co/blog/web-scraping-with-python/ <br>
+
 Beautiful Soup: Build a Web Scraper With Python - https://realpython.com/beautiful-soup-web-scraper-python/ <br>
